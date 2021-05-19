@@ -38,7 +38,7 @@ eFecha fechas[10] = {
 
 int id[10]={501, 504, 502, 504, 503, 504, 501, 504, 502, 504};
 
-int hardcodearEmpleados(eEmpleado lista[], int tam, int cant, int *pLegajo)
+/*int hardcodearEmpleados(eEmpleado lista[], int tam, int cant, int *pLegajo)
 {
     int cantidad = 0;
     if(lista != NULL && tam > 0 && cant >= 0 && cant <= tam && pLegajo != NULL)
@@ -60,7 +60,7 @@ int hardcodearEmpleados(eEmpleado lista[], int tam, int cant, int *pLegajo)
 
     }
     return cantidad;
-}
+}*/
 
 
 eFecha fechas2[] = {
@@ -93,7 +93,7 @@ int legajos[] ={20000,20006,20001,20005,20007,20002,20000,20004,20001,20003,2000
 
 int idComidas[]={1000,1003,1002,1000,1000,1004,1002,1001,1004,1003,1003,1004,1000,1002,1004,1004,1001,1001,1000,1001,1002,1002,1000};
 
-int hardcodearAlmuerzos(eAlmuerzo lista[], int tam, int cant, int *pId)
+/*int hardcodearAlmuerzos(eAlmuerzo lista[], int tam, int cant, int *pId)
 {
     int cantidad = 0;
     if(lista != NULL && tam > 0 && cant >= 0 && cant <= tam && pId != NULL)
@@ -111,4 +111,4 @@ int hardcodearAlmuerzos(eAlmuerzo lista[], int tam, int cant, int *pId)
 
     }
     return cantidad;
-}
+}*/

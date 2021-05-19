@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1621200956 source:e:\tecnicatura en programacion\programacion i\murakoshi.leandro.pplab1\pplab1\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fecha.h"
+
+1621205351 e:\tecnicatura en programacion\programacion i\murakoshi.leandro.pplab1\pplab1\fecha.h
+
+1621371362 source:e:\tecnicatura en programacion\programacion i\murakoshi.leandro.pplab1\pplab1\inputs_lean.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"inputs_lean.h"
+
+1621423633 e:\tecnicatura en programacion\programacion i\murakoshi.leandro.pplab1\pplab1\inputs_lean.h
+	"fecha.h"
+
+1621426435 source:e:\tecnicatura en programacion\programacion i\murakoshi.leandro.pplab1\pplab1\datawarehouse.c
+	"dataWareHouse.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621426415 e:\tecnicatura en programacion\programacion i\murakoshi.leandro.pplab1\pplab1\datawarehouse.h
+	"fecha.h"
+
+1621436352 source:e:\tecnicatura en programacion\programacion i\murakoshi.leandro.pplab1\pplab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fecha.h"
+	"inputs_lean.h"
+
+1621436214 source:e:\tecnicatura en programacion\programacion i\murakoshi.leandro.pplab1\pplab1\colores.c
+	"colores.h"
+
+1621436284 e:\tecnicatura en programacion\programacion i\murakoshi.leandro.pplab1\pplab1\colores.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621436284 source:e:\tecnicatura en programacion\programacion i\murakoshi.leandro.pplab1\pplab1\marcas.c
+	"marcas.h"
+
+1621436284 e:\tecnicatura en programacion\programacion i\murakoshi.leandro.pplab1\pplab1\marcas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621436284 source:e:\tecnicatura en programacion\programacion i\murakoshi.leandro.pplab1\pplab1\servicios.c
+	"servicios.h"
+
+1621436284 e:\tecnicatura en programacion\programacion i\murakoshi.leandro.pplab1\pplab1\servicios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
